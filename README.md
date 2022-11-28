@@ -4,7 +4,7 @@
 <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 - 🌱 I’m currently learning **React**
 
-<img alt="codee" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw3pUBff96NejbGjt92Y6qA7&ust=1669734906180000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJCThrGV0fsCFQAAAAAdAAAAABAE" height=250 width=350 />
+<img alt="codee" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=250 width=350 />
 </div>
 
 - 💬 Ask me about **React**
