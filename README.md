@@ -11,7 +11,7 @@
 
 - 💬 Ask me about *REACT*
 
-- 💬about my portfolio which i have created from scratch https://dynamic-lokum-a192a6.netlify.app/
+- 💬about my portfolio which i have created from scratch https://pgariya.github.io/
 
 - 📫 How to reach me *8192969855p@gmail.com*
 
