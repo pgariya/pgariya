@@ -25,7 +25,7 @@
 
 - 📫 How to reach me *pgariya@gmail.com*
 
-- 📄 Know about my experiences [Resume ] (https://drive.google.com/file/d/1EeRhTqNMm1rc3MaRzxq4_wvKlTlvifkN/view?usp=sharing)
+- 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1EeRhTqNMm1rc3MaRzxq4_wvKlTlvifkN/view?usp=sharing)
 
 - ⚡ Fun fact *Computer "Bugs" was inspired by a real Insect*
 
