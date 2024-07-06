@@ -27,7 +27,7 @@
   
 - 📫My Linkdin : https://www.linkedin.com/in/prakash-gariya-a7580a239/
 
-- 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1EeRhTqNMm1rc3MaRzxq4_wvKlTlvifkN/view?usp=sharing)
+- 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1sbnAjgI8YklGvFK1d_tqUpUyVpOP4zLG/view?usp=sharing)
 
 - ⚡ Fun fact *Computer "Bugs" was inspired by a real Insect*
 
