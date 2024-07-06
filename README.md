@@ -23,7 +23,7 @@
 
 - 💬About my portfolio which i have created from scratch [Portfolio] (https://pgariya.github.io/)
 
-- 📫 How to reach me *pgariya@gmail.com*
+- 📫 How to reach me *8192969855p@gmail.com*
 
 - 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1EeRhTqNMm1rc3MaRzxq4_wvKlTlvifkN/view?usp=sharing)
 
