@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/efe028a1acecb148345817f09b7aa02ccb73f1335baf7ece530f6be85d4bfa1e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32662f66342f32382f32666634323830303666336164653566313062656163363933373230363261622e676966" alt="javascript" width="100%" height="350"/>
+<img src="https://camo.githubusercontent.com/11a366e8b3ba012d6a81738484da67627677f944025179cc5492c20dc77d82b9/687474703a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966" alt="javascript" width="100%" height="350"/>
 
 <h1 align="center">Hi 👋, I'm Prakash Gariya </h1>
 <h3 align="center">A passionate frontend developer from India,Motivated and innovative aspiring full-stack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Curious to learn about emerging web technologies. Looking forward to making a significant contribution to an organization through dedicated effort.</h3>
