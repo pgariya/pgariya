@@ -15,7 +15,7 @@
 <!-- <img alt="codee" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=250 width=350 /> -->
 </div>
 
-- 🌱 I’m currently learning *React Navtive*
+- 🌱 I’m currently learning *React Native*
 
 - 👨‍💻 All of my projects are available at [https://pgariya.github.io/](https://pgariya.github.io/)
 
