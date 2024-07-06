@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/11a366e8b3ba012d6a81738484da67627677f944025179cc5492c20dc77d82b9/687474703a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966" alt="javascript" width="100%" height="350"/>
+<img src="https://camo.githubusercontent.com/30dfce7a5782d5f5ddbba4c3d122189a302d09c12f79f4843c5a0bd4c5c412e7/68747470733a2f2f676c6f62616c656475636174696f6e2e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f676c6f62616c6564752f6769662f66726f6e742d656e642d646576656c6f706d656e742e676966" alt="javascript" width="100%" height="350"/>
 
 <h1 align="center">Hi 👋, I'm Prakash Gariya </h1>
 <h3 align="center">A passionate frontend developer from India,Motivated and innovative aspiring full-stack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Curious to learn about emerging web technologies. Looking forward to making a significant contribution to an organization through dedicated effort.</h3>
@@ -23,7 +23,9 @@
 
 - 💬About my portfolio which i have created from scratch [Portfolio] (https://pgariya.github.io/)
 
-- 📫 How to reach me *8192969855p@gmail.com*
+- 📫 My  EmailID :  *8192969855p@gmail.com*
+  
+- 📫My Linkdin : https://www.linkedin.com/in/prakash-gariya-a7580a239/
 
 - 📄 Know about my experiences [Resume ](https://drive.google.com/file/d/1EeRhTqNMm1rc3MaRzxq4_wvKlTlvifkN/view?usp=sharing)
 
